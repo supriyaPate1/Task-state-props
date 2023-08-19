@@ -1,0 +1,22 @@
+.countD{
+    text-align: center;
+    border-color: brown;
+    background-color: rgb(70, 46, 17);
+    margin: auto;
+    margin-top: 5%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    width:50%;
+    border-radius: 8px;
+}
+.countD button{
+    border-radius: 8px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 4px;
+    background-color: rgb(228, 174, 105);
+    color: rgb(18, 51, 40);
+    border: 1px solid rgb(218, 84, 84);
+}

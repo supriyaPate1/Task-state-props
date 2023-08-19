@@ -1,0 +1,22 @@
+.stop{
+    text-align: center;
+    border-color: rgb(241, 44, 44);
+    background-color: rgb(114, 66, 8);
+    margin: auto;
+    margin-top: 5%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    width:50%;
+    border-radius: 8px;
+}
+.stop button{
+    border-radius: 8px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 4px;
+    background-color: rgb(231, 204, 168);
+    color: rgb(4, 56, 39);
+    border: 1px solid rgb(87, 31, 31);
+}

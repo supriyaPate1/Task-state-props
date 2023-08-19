@@ -1,0 +1,24 @@
+.button{
+    text-align: center;
+    border-color: brown;
+    background-color: bisque;
+    margin: auto;
+    margin-top: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width:50%;
+    border-radius: 8px;
+}
+.button button{
+    border-radius: 8px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: rgb(160, 113, 52);
+    color: aquamarine;
+    border: 1px solid rgb(58, 58, 126);
+}
+.button p{
+    color: rgb(68, 19, 19);
+}
